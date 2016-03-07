@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h

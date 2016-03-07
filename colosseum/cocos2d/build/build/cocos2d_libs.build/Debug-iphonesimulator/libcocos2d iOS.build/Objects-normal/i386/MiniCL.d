@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/MiniCL/MiniCL.cpp \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/MiniCL/cl.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/MiniCL/cl_platform.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletMultiThreaded/PlatformDefinitions.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/vmInclude.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/vectormath_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/vecidx_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/floatInVec.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/boolInVec.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/vec_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/quat_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/mat_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletMultiThreaded/PpuAddressSpace.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletMultiThreaded/PosixThreadSupport.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletMultiThreaded/btThreadSupportInterface.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletMultiThreaded/SequentialThreadSupport.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/MiniCL/MiniCLTaskScheduler.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/MiniCL/MiniCLTask/MiniCLTask.h

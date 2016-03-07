@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/PosixThreadSupport.cpp \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/PosixThreadSupport.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/PlatformDefinitions.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/vmInclude.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/vectormath_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/vecidx_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/floatInVec.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/boolInVec.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/vec_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/quat_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/vectormath/sse/mat_aos.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/PpuAddressSpace.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/btThreadSupportInterface.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/SpuCollisionTaskProcess.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuGatheringCollisionTask.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionObject.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/LinearMath/btMotionState.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexShape.h \
+  /Users/taiki.ogasawara/develop/cocospj/colosseum/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h
